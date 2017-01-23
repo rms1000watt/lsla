@@ -1,0 +1,28 @@
+{
+  "name": "lsla",
+  "version": "1.0.0",
+  "description": "Wrapper of `ls -la`",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lsla": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rms1000watt/lsla.git"
+  },
+  "keywords": [
+    "ls",
+    "list directory contents",
+    "list",
+    "contents"
+  ],
+  "author": "Ryan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rms1000watt/lsla/issues"
+  },
+  "homepage": "https://github.com/rms1000watt/lsla#readme"
+}
