@@ -21,5 +21,5 @@ lsla
 ```
 import lsla from 'lsla';
 
-console.log(lsla());
+lsla();
 ```
