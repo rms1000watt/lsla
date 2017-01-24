@@ -5,7 +5,8 @@ Wrapper of `ls -la`
 ## Installation
 
 ```
-npm install -g lsla
+npm install -g nimstall
+nimstall -g lsla
 ```
 
 ## Usage
